@@ -1,5 +1,0 @@
-# Hello World Example
-
-Starts a FreeRTOS task to print "Hello World"
-
-sdkconfig - automatically generated file that defines instructions of which functions the 
